@@ -1,0 +1,10 @@
+{
+    "auth_method": "pwd",
+    "allow_auth_method": ["pwd", "face", "pwd_face"],
+    "serverUrl": "http://10.10.131.155:8800",
+    "jpeg_quality": 60,
+    "scale_factor": 0.75,
+    "display_fps": 25,
+    "detect_fps": 2,
+    "show_ir_detection": false
+}
